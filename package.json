@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/aixoio/super-easy-ajax/issues"
   },
-  "homepage": "https://github.com/aixoio/super-easy-ajax#readme"
+  "homepage": "https://github.com/aixoio/super-easy-ajax#readme",
+  "devDependencies": {
+    "rollup": "^3.17.2"
+  }
 }
