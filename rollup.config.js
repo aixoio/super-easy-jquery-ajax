@@ -7,14 +7,14 @@ module.exports = {
 
         {
 
-            file: "dist/super-easy-ajax.js",
+            file: "dist/super-easy-jquery-ajax.js",
             format: "cjs"
 
         },
 
         {
 
-            file: "dist/super-easy-ajax.es.js",
+            file: "dist/super-easy-jquery-ajax.es.js",
             format: "es"
 
         }
