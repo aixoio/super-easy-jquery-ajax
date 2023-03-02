@@ -6,7 +6,7 @@ module.exports = {
 
     entry: {
 
-        bundle: path.resolve(__dirname, "src/index.js")
+        bundle: path.resolve(__dirname, "src/index.web.js")
 
     },
 
