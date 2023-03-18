@@ -9,7 +9,7 @@ npm i super-easy-jquery-ajax
 
 ## Usage
 ```JavaScript
-import ajax from "super-easy-jquery-ajax";
+import "super-easy-jquery-ajax";
 
 ajax("https://example.com/", null, "GET", "html").then(data => {
 
